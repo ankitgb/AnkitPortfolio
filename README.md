@@ -1,7 +1,3 @@
-# INFO-201-Final-Deliverable-4709AB (Summer 2022)
+Welcome to my Data Science GitHub portfolio! This repository serves as a showcase of my data science projects and demonstrates my skills, experience, and interests in the field of data science. Below, you will find a brief description of each project along with links to their respective repositories and any additional information you may need to explore them further.
 
-# COVID-19 Trends in the United States of America
-
-By: Archit Gubiligari, Ankit Gubiligari, and Christine Park
-
-Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/
+RStudio Project 2: COVID-19 Global Trends: Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/

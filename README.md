@@ -1,2 +1,7 @@
-# PortfolioProjects
-This repository holds all the code and queries from the projects that I have done within the field of data science. This includes programming in python, R, and query-based languages such as SQL.
+# INFO-201-Final-Deliverable-4709AB (Summer 2022)
+
+# COVID-19 Trends in the United States of America
+
+By: Archit Gubiligari, Ankit Gubiligari, and Christine Park
+
+Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/

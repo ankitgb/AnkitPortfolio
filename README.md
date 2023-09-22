@@ -7,3 +7,6 @@ Rstudio Project 1: Linear Regression Analysis (EDA) of Effect of Alcohol Consump
 
 
 RStudio Project 2: COVID-19 Global Trends: Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/
+
+
+Big ML/Random Forest Project 1: Predicting Crime Type in Chicago: 

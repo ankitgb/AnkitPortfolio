@@ -10,4 +10,11 @@ Rstudio Project 1: Linear Regression Analysis (EDA) of the Effect of Alcohol Con
 RStudio Project 2: COVID-19 Global Trends: Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/
 
 
+SQL/PowerBI Project 1: Analyzing Apple Stock Revenue Over the History of the Company: https://github.com/ankitgb/PortfolioProjects/blob/main/SQL%26PowerBIProject1.pdf
+
+
+
 Big ML/Random Forest Project 1: Predicting Crime Type in Chicago: https://github.com/ankitgb/PortfolioProjects/blob/main/BigMLProject1-%20Predicting%20Crime%20Types%20in%20Chicago.pdf
+
+
+

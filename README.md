@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my data 
 Python Project 1: Movie Budget/Gross Revenue Exploratory Data Analysis (Correlation Testing): [https://github.com/ankitgb/PortfolioProjects/blob/main/Movie%20Correlation%20Python%20Project.ipynb](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonProject1-%20Correlation%20between%20BudgetvsGrossRev%20Analysis.ipynb)
 
 
-Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic: EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx
+Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic: EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb Tableau/PP LINK: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
 
 
 Rstudio Project 1: Linear Regression Analysis (EDA) of the Effect of Alcohol Consumption on Life Expectancy and whether the effect is different based on the country's developmental status: https://github.com/ankitgb/PortfolioProjects/blob/main/RProject1%20-%20EDA.pdf

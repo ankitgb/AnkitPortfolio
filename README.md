@@ -9,7 +9,7 @@ Python Project 1: Movie Budget/Gross Revenue Exploratory Data Analysis (Correlat
 
 
 
-<u> Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic: </u>
+**Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic:**
 
 EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb 
 

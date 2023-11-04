@@ -6,11 +6,13 @@ Python Project 1: Movie Budget/Gross Revenue Exploratory Data Analysis (Correlat
 
 
 Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic: 
+
 EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb 
 Tableau/PP LINK: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
 
 
 Python/Tableau Project 3: Fitness Center Case Study Exploratory Data Analysis to Reduce Customer Churn: 
+
 EDA LINK: (https://github.com/ankitgb/PortfolioProjects/blob/main/Fitness%20Case%20EDA.ipynb) 
 Tableau/PP LINK:(https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject3%20-%20FitnessCaseStudy.pdf)
 

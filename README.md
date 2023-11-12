@@ -29,6 +29,15 @@ Tableau/PP LINK:(https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTa
 
 
 
+**Python/Tableau Project 4: Verizon Case Study Exploratory Data Analysis to Reduce Customer Defaulting on Payments:** 
+
+EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/VerizonCaseEDA.ipynb
+
+Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject4%20-%20VerizonCaseStudy%20.pdf
+
+
+
+
 **Rstudio Project 1: Linear Regression Analysis (EDA) of the Effect of Alcohol Consumption on Life Expectancy and whether the effect is different based on the country's developmental status:** 
 
 (https://github.com/ankitgb/PortfolioProjects/blob/main/RProject1%20-%20EDA.pdf)

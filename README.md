@@ -1,10 +1,18 @@
 Welcome to my GitHub portfolio! This repository serves as a showcase of my data science projects and demonstrates my skills, experience, and interests in the field of data science. Below, you will find a brief description of each project along with links to their respective repositories and any additional information you may need to explore them further. These projects contain statistical/programming languages such as Python, and R, along with visualization and ML software such as Tableau, Shinyapp, and BigML.
 
 
+**SQL/Tableau Project 1: Finding the Next Generation of Tennis Superstars:** 
+
+SQL DDL Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DDL.sql
+
+SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DML.sql
+
+SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
+
+Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
 **Python Project 1: Movie Budget/Gross Revenue Exploratory Data Analysis (Correlation Testing):** 
 
 (https://github.com/ankitgb/PortfolioProjects/blob/main/PythonProject1-%20Correlation%20between%20BudgetvsGrossRev%20Analysis.ipynb)
-
 
 
 
@@ -50,19 +58,6 @@ Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTa
 
 Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/
 All code in Portfolio for ui, charts, and server in shinyapp above are designated under RProject2.
-
-
-
-
-**SQL/Tableau Project 1: Finding the Next Generation of Tennis Superstars:** 
-
-SQL DDL Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DDL.sql
-
-SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DML.sql
-
-SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
-
-Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
 
 
 

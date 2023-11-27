@@ -57,8 +57,11 @@ All code in Portfolio for ui, charts, and server in shinyapp above are designate
 **SQL/Tableau Project 1: Finding the Next Generation of Tennis Superstars:** 
 
 SQL DDL Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DDL.sql
+
 SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DML.sql
+
 SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
+
 Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
 
 

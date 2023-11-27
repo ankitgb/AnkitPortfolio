@@ -49,13 +49,22 @@ Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTa
 **RStudio Project 2: COVID-19 Global Trends:** 
 
 Shinyapps link: https://ankitgg.shinyapps.io/info-201-final-deliverable-4709ab/
-All code in Portfolio for ui, charts, and server in shiny app above are designated under RProject2.
+All code in Portfolio for ui, charts, and server in shinyapp above are designated under RProject2.
 
 
 
 
+**SQL/Tableau Project 1: Finding the Next Generation of Tennis Superstars:** 
 
-**SQL/PowerBI Project 1: Analyzing Apple Stock Revenue Over the History of the Company:** 
+SQL DDL Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DDL.sql
+SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1DML.sql
+SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
+Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
+
+
+
+
+**SQL/PowerBI Project 2: Analyzing Apple Stock Revenue Over the History of the Company:** 
 
 (https://github.com/ankitgb/PortfolioProjects/blob/main/SQL%26PowerBIProject1.pdf)
 

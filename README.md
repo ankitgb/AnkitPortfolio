@@ -10,6 +10,10 @@ SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauP
 SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
 
 Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
+
+
+
+
 **Python Project 1: Movie Budget/Gross Revenue Exploratory Data Analysis (Correlation Testing):** 
 
 (https://github.com/ankitgb/PortfolioProjects/blob/main/PythonProject1-%20Correlation%20between%20BudgetvsGrossRev%20Analysis.ipynb)

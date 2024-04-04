@@ -1,7 +1,7 @@
 Welcome to my GitHub portfolio! This repository serves as a showcase of my data science projects and demonstrates my skills, experience, and interests in the field of data science. Below, you will find a brief description of each project along with links to their respective repositories and any additional information you may need to explore them further. These projects contain statistical/programming languages such as Python, and R, along with visualization and ML software such as Tableau, Shinyapp, and BigML.
 
 
-**Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:** 
+<u>**Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:**<u>
 
 Python Code for Pre-processing/Feature Selection: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Pre-processing%20and%20Feature%20Selection.ipynb
 

@@ -3,13 +3,13 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my data 
 
 **Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:** 
 
-Python Code for Pre-processing/Feature Selection:
+Python Code for Pre-processing/Feature Selection: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Pre-processing%20and%20Feature%20Selection.ipynb
 
-Python Code for Cox Proportional Hazard Model/SHAPley: 
+Python Code for Cox Proportional Hazard Model/SHAPley: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Cox%20Proportional%20Hazard%20%26%20SHAPley.ipynb
 
-R Code for Logistic Regression Model: 
+R Code for Logistic Regression Model: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Logistic%20Regression%20Model.R
 
-Analysis: 
+Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
 
 
 

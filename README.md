@@ -14,9 +14,9 @@ Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRP
 
 **NLP Python Project 1: Identifying Jobs Impacted by AI:**
 
-Python Code for NLP Analysis Link:
+Python Code for NLP Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/NLP%20Python%20Project%201%20-%20Code.ipynb
 
-Full Analysis Link: 
+Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/NLP%20Python%20Project%201%20-%20Analysis.pdf
 
 
 

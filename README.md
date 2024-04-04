@@ -1,7 +1,7 @@
 Welcome to my GitHub portfolio! This repository serves as a showcase of my data science projects and demonstrates my skills, experience, and interests in the field of data science. Below, you will find a brief description of each project along with links to their respective repositories and any additional information you may need to explore them further. These projects contain statistical/programming languages such as Python, and R, along with visualization and ML software such as Tableau, Shinyapp, and BigML.
 
 
-<u>**Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:**<u>
+**Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:**
 
 Python Code for Pre-processing/Feature Selection Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Pre-processing%20and%20Feature%20Selection.ipynb
 
@@ -10,6 +10,13 @@ Python Code for Cox Proportional Hazard Model/SHAPley Link: https://github.com/a
 R Code for Logistic Regression Model Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Logistic%20Regression%20Model.R
 
 Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
+
+
+**NLP Python Project 1: Identifying Jobs Impacted by AI:**
+
+Python Code for NLP Analysis Link:
+
+Full Analysis Link: 
 
 
 

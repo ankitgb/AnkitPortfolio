@@ -63,9 +63,9 @@ Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTa
 
 **Python Project 5: Forecasting Customer Churn in Banking Sector:** 
 
-Modeling Code Link: 
+Modeling Code Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonProject5%20-%20Churn%20Code.ipynb
 
-Full Analysis Link: 
+Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonProject5%20-%20Analysis.pdf
 
 
 

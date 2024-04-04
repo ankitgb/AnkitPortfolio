@@ -9,7 +9,7 @@ Python Code for Cox Proportional Hazard Model/SHAPley Link: https://github.com/a
 
 R Code for Logistic Regression Model Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Logistic%20Regression%20Model.R
 
-Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
+Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
 
 
 
@@ -21,7 +21,7 @@ SQL DML Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauP
 
 SQL Queries Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Queries.sql
 
-Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
+Full Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProject1Analysis.pdf
 
 
 
@@ -37,7 +37,7 @@ Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProje
 
 EDA Link: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb 
 
-Tableau/PP Link: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
+Full Tableau/PP Link: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
 
 
 
@@ -65,7 +65,7 @@ Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTa
 
 Modeling Code Link: 
 
-Analysis Link: 
+Full Analysis Link: 
 
 
 

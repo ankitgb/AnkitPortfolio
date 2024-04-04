@@ -3,13 +3,13 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my data 
 
 <u>**Python/R Project 1: Analyzing Pandemic Response Strategies for Future Prevention:**<u>
 
-Python Code for Pre-processing/Feature Selection: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Pre-processing%20and%20Feature%20Selection.ipynb
+Python Code for Pre-processing/Feature Selection Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Pre-processing%20and%20Feature%20Selection.ipynb
 
-Python Code for Cox Proportional Hazard Model/SHAPley: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Cox%20Proportional%20Hazard%20%26%20SHAPley.ipynb
+Python Code for Cox Proportional Hazard Model/SHAPley Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Cox%20Proportional%20Hazard%20%26%20SHAPley.ipynb
 
-R Code for Logistic Regression Model: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Logistic%20Regression%20Model.R
+R Code for Logistic Regression Model Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Logistic%20Regression%20Model.R
 
-Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
+Analysis Link: https://github.com/ankitgb/AnkitPortfolio/blob/main/PythonRProject1%20-%20Analysis.pdf
 
 
 
@@ -35,9 +35,9 @@ Analysis: https://github.com/ankitgb/AnkitPortfolio/blob/main/SQL%26TableauProje
 
 **Python/Tableau Project 2: McDonald's Case Study Exploratory Data Analysis on Promotions effect on profit/foot traffic:**
 
-EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb 
+EDA Link: https://github.com/ankitgb/PortfolioProjects/blob/main/McDonalds%20EDA.ipynb 
 
-Tableau/PP LINK: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
+Tableau/PP Link: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pptx](https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject2%20-%20McDonald's%20Case%20Study.pdf)
 
 
 
@@ -45,9 +45,9 @@ Tableau/PP LINK: [https://github.com/ankitgb/PortfolioProjects/blob/main/PythonT
 
 **Python/Tableau Project 3: Fitness Center Case Study Exploratory Data Analysis to Reduce Customer Churn:** 
 
-EDA LINK: (https://github.com/ankitgb/PortfolioProjects/blob/main/Fitness%20Case%20EDA.ipynb) 
+EDA Link: (https://github.com/ankitgb/PortfolioProjects/blob/main/Fitness%20Case%20EDA.ipynb) 
 
-Tableau/PP LINK:(https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject3%20-%20FitnessCaseStudy.pdf)
+Tableau/PP Link:(https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject3%20-%20FitnessCaseStudy.pdf)
 
 
 
@@ -59,6 +59,13 @@ EDA LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/VerizonCaseEDA.
 
 Tableau/PP LINK: https://github.com/ankitgb/PortfolioProjects/blob/main/PythonTableauProject4%20-%20VerizonCaseStudy%20.pdf
 
+
+
+**Python Project 5: Forecasting Customer Churn in Banking Sector:** 
+
+Modeling Code Link: 
+
+Analysis Link: 
 
 
 
